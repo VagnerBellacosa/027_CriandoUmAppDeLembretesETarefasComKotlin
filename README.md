@@ -1,4 +1,4 @@
-# 027_CriandoUmAppDeLembretes-e-tarefas-com-kotlin
+# 027_CriandoUmAppDeLembretesETarefasComKotlin
 
 Criando um app de lembretes e tarefas com kotlin
 

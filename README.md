@@ -1,4 +1,6 @@
-# 027_CriandoUmAppDeLembretesETarefasComKotlin
+# Labs
+
+## 027_CriandoUmAppDeLembretesETarefasComKotlin
 
 Criando um app de lembretes e tarefas com kotlin
 
@@ -8,3 +10,5 @@ Crie um App no estilo "To Do List" do zero e conduza todo o processo de desenvol
 
 ##### Ezequiel Messore
 Android Developer, Digital Innovation One
+
+https://web.digitalinnovation.one/lab/criando-um-app-de-lembretes-e-tarefas-com-kotlin/learning/95ab997b-7f91-4256-b2b3-50d2e692d5cc
